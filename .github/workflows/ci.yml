@@ -28,4 +28,4 @@ jobs:
 
       - name: Stop and clear docker compose
         run: |
-        docker compose down
+         docker compose down
